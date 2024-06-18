@@ -1,1 +1,1 @@
-# DicActivities are in this folder
+# 1.3Activities are in this folder
